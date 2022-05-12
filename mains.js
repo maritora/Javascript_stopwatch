@@ -7,7 +7,6 @@ let c1 = 0;
 let c2 = 0;
 let c3 = 0;
 let c4 = 0;
-
 let stopwatch = () => {
 	c1++; //１を足す
 	if (c1 >9) {
