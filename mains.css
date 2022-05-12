@@ -1,0 +1,9 @@
+div{
+    letter-spacing:10px;
+}
+#count{
+    padding:10px;
+    display:flex;
+    color: #FF69B4;
+    font-size: 30px;
+}
